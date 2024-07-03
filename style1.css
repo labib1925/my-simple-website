@@ -1,0 +1,54 @@
+h3{
+    font-size: 30px;
+    text-decoration: overline;
+text-transform: capitalize;
+
+background-color: bisque;
+}
+h1{
+background-color: rgba(213, 224, 255, 0.13);
+}
+P{
+    text-align: justify;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;    
+}
+
+*{
+    margin: 0;
+}
+.blog{
+    background-color: aquamarine;
+    border: 5px solid violet;
+    border-radius: 10px;
+   margin: 20px 40px;
+   
+}
+.blog1{
+    background-color: aquamarine;
+    border: 5px solid violet;
+    border-radius: 10px;
+   margin: 20px 40px;
+   
+}
+.blog1{
+    /* visibility: hidden; */
+}
+li{color: blue;}
+.emo{
+    background-color: cadetblue;
+}
+.pass{
+    text-align: right;
+   margin-bottom: 30px;
+padding: 10px;
+
+}
+.but{
+    color: black
+    
+}
+.what{
+    color: blue;
+}
